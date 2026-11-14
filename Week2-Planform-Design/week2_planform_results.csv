@@ -1,0 +1,12 @@
+Parameter,Value,Unit
+Weight,117.72,N
+Aspect Ratio,7.5,-
+Root Chord,0.5,m
+Tip Chord,0.3,m
+Mean Aerodynamic Chord,0.4083,m
+MAC Position,0.6875,m
+Wing Loading,98.1,N/m2
+Dynamic Pressure,245.0,Pa
+Cruise Required CL,0.4004,-
+Low Speed Required CL,1.1122,-
+Reynolds Number,559204.3972,-
